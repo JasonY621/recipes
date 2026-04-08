@@ -4,4 +4,5 @@
 * lime
 * salt
 * sugar
+* pepper
 ## Instructions
